@@ -38,3 +38,6 @@ edad = 18
 
 
 print(dir(edad))
+
+
+input("que edad tienes?")
